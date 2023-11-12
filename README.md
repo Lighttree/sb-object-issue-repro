@@ -19,3 +19,87 @@
 <pre>
   yarn storybook
 </pre>
+
+# TEST OBJECT:
+
+```json
+{
+"foo": "bar",
+"children": [
+    {
+    "foo": "bar",
+    "children": [
+        {
+        "foo": "bar",
+        "children": [
+            {
+            "foo": "bar",
+            "children": [
+                {
+                "foo": "bar",
+                "children": [
+                    {
+                    "foo": "bar",
+                    "children": [
+                        {
+                        "foo": "bar",
+                        "children": [
+                            {
+                            "foo": "bar",
+                            "children": [
+                                {
+                                "foo": "bar",
+                                "children": [
+                                    {
+                                    "foo": "bar",
+                                    "children": [
+                                        {
+                                        "foo": "bar",
+                                        "children": [
+                                            {
+                                            "foo": "bar",
+                                            "children": [
+                                                {
+                                                "foo": "bar",
+                                                "children": [
+                                                    {
+                                                    "foo": "bar",
+                                                    "children": [
+                                                        {
+                                                        "foo": "bar",
+                                                        "children": [
+                                                            {
+                                                            "foo": "bar",
+                                                            "children": []
+                                                            }
+                                                        ]
+                                                        }
+                                                    ]
+                                                    }
+                                                ]
+                                                }
+                                            ]
+                                            }
+                                        ]
+                                        }
+                                    ]
+                                    }
+                                ]
+                                }
+                            ]
+                            }
+                        ]
+                        }
+                    ]
+                    }
+                ]
+                }
+            ]
+            }
+        ]
+        }
+    ]
+    }
+]
+}
+```
